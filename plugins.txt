@@ -1,4 +1,5 @@
 configuration-as-code
+configuration-as-code-support 
 cloudbees-folder
 jdk-tool
 script-security
